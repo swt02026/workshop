@@ -6,6 +6,6 @@ aaabbbaaa
 aaaaa
 
 aaaaaaaabbbaaaaa
-aaavvvbbbaaaaa
+aaabbaaabbbaaaaa
 
 vvv
